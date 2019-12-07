@@ -21,3 +21,29 @@ or
 ### PROCESS
 
 * In join techous [create an issue](https://github.com/TechOUs/Join-TechOUs/issues) with the [sample template given](https://github.com/TechOUs/Join-TechOUs/issues/1).
+
+## INVITE
+
+You will get invite asap if you satisfy the criteria.
+
+## QUERIES
+
+For more queries:
+
+### :rocket: Email
+
+You can mail us on [techous18@gmail.com](mailto:techous18@gmail.com).
+
+### :rocket: Medium
+
+Now you can follow us on [medium](https://medium.com/@techous18) also on.
+
+### :rocket: Slack
+
+You can join our channels on [slack](https://join.slack.com/t/techousworkspace/shared_invite/enQtODYzOTM4MDk3NzQ5LTEzMWY5Mjk1MjE3MzBiYWFiODA1YWRiMmUyYTVjNmZlMjM3MGZmZDczY2JkZGZkNmQzODg1Nzc2NGEwYWE1NTg).
+
+## LICENSE
+
+[MIT License](LICENSE)
+
+:copyright: 2019 TechOus
