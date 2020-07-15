@@ -46,4 +46,4 @@ You can join our channels on [slack](https://join.slack.com/t/techousworkspace/s
 
 [MIT License](LICENSE)
 
-:copyright: 2019 TechOus
+:copyright: 2019-20 TechOus
